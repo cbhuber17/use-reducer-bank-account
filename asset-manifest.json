@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/use-reducer-bank-account/static/css/main.fc5c2c69.css",
+    "main.js": "/use-reducer-bank-account/static/js/main.b564f73b.js",
+    "index.html": "/use-reducer-bank-account/index.html",
+    "main.fc5c2c69.css.map": "/use-reducer-bank-account/static/css/main.fc5c2c69.css.map",
+    "main.b564f73b.js.map": "/use-reducer-bank-account/static/js/main.b564f73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.b564f73b.js"
+  ]
+}
